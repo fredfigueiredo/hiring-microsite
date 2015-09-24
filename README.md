@@ -1,6 +1,5 @@
 # ToDo
 
-* Darken header photo
 * Team / work related photos (6 in total)
 * Photo gallery option, instead of options
 * Values and update images using font awesome
