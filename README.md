@@ -19,3 +19,4 @@ We also used the [Lightbox](http://lokeshdhakar.com/projects/lightbox2/) project
 Code released under the [Apache 2.0](https://github.com/fredfigueiredo/hiring-microsite/blob/gh-pages/LICENSE) license.
 
 All images of our workplace and colleagues are Copyrighted.
+
