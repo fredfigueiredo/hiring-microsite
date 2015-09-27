@@ -4,7 +4,6 @@
 
 # ToDo
 
-* Improve video section
 * Style with company colors and font style
 * Revise the texts in the page and for the images
 
